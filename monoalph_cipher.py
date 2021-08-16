@@ -66,7 +66,7 @@ if __name__ == '__main__':
         
 
 
-    ### Note: don't change the following code in your own program for displaying program outputs!!!
+    ###  for displaying program outputs
     print('##############################################')
     print('Cipher with key: ', key)
     print('##############################################')   
