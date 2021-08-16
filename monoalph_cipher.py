@@ -3,11 +3,7 @@ import string
 #------------------------------------------------------------------------------
 
 
-#the premade code and layout of the document wasn't very clear to me 
-# which led to major confusion while doing this, my code works fine and
-# has the correct output in the terminal when run, zoom learning is
-#difficult to me. The default code wouldnt work on my laptop.
-#No detriment policy should applied here.
+
 
 def monoalphabetic_cipher(message, key, mode):
     # The body of this function is to be completed by you in your own python program
